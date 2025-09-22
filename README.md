@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=McLopcter06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=McLopcter06&radius=16&theme=merko&area=true&order=5" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=McLopcter06&radius=16&theme=merko&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
