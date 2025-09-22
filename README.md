@@ -1,10 +1,6 @@
 # 💫 About Me:
 😄 I'm 15 years old.<br>📫 You can reach me on Discord: mclopcter06.<br>🧪 I do projects of varying complexity, from simple web pages to full — fledged systems.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/853707565958823976) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mclopcter.dev@gmail.com) 
-
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo"  />
