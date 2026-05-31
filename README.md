@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mark
+Hi 👋 My name is Mark
 =============================================================================================================================
 
 🧪 I do projects of varying complexity, from simple web pages to full — fledged systems.
