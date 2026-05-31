@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Israel, Tel Aviv
 * 🖥️  See my portfolio at [link](http://solo.to/mclopcter06)
 * ✉️  You can contact me at [mclopcter.dev@gmail.com](mailto:mclopcter.dev@gmail.com)
-
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo"  />
