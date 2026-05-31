@@ -1,5 +1,11 @@
-# Hi there, Welcome to my Profile 👋
-😄 I'm 16 years old.<br>📫 You can reach me on Discord: mclopcter06.<br>🧪 I do projects of varying complexity, from simple web pages to full — fledged systems.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mark
+=============================================================================================================================
+
+🧪 I do projects of varying complexity, from simple web pages to full — fledged systems.
+
+* 🌍  I'm based in Israel, Tel Aviv
+* 🖥️  See my portfolio at [link](http://solo.to/mclopcter06)
+* ✉️  You can contact me at [mclopcter.dev@gmail.com](mailto:mclopcter.dev@gmail.com)
 
 # 💻 Tech Stack:
 <div align="center">
