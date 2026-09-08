@@ -19,4 +19,4 @@ Hi 👋 My name is Mark
 
 🧪 Discord Stats
 =============================================================================================================================
-[![Discord Presence](https://lanyard.cnrad.dev/api/853707565958823976?)
+![Discord Presence](https://lanyard.cnrad.dev/api/853707565958823976?)
