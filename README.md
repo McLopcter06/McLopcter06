@@ -16,3 +16,7 @@ Hi 👋 My name is Mark
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31k3mvh6b6ipuc3sddv6r7wpabim">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31k3mvh6b6ipuc3sddv6r7wpabim" alt="Data Card for Spotify">
 </a>
+
+🧪 Discord Stats
+=============================================================================================================================
+[![Discord Presence](https://lanyard.cnrad.dev/api/:853707565958823976)](https://discord.com/users/:853707565958823976)
